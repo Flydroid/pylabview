@@ -1,0 +1,2 @@
+{"label": "Strict", "strict": true,
+ "fields": [{"label": "id", "type": "U64"}, {"label": "name", "type": "String"}]}

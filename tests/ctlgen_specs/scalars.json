@@ -1,0 +1,5 @@
+{"label": "Scalars",
+ "fields": [
+  {"label": "Sample Rate [Hz]", "type": "DBL"}, {"label": "Count", "type": "I32"}, {"label": "Big", "type": "U64"},
+  {"label": "Small", "type": "U8"}, {"label": "Precise", "type": "EXT"}, {"label": "Device Name", "type": "String"},
+  {"label": "Enabled", "type": "Bool"}, {"label": "Data File", "type": "Path"}]}

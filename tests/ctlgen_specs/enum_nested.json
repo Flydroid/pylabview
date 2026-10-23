@@ -1,0 +1,8 @@
+{"label": "Status",
+ "fields": [
+  {"label": "state", "type": "Enum", "rep": "U16", "values": ["IDLE", "ARMED", "RUNNING", "ERROR"]},
+  {"label": "code", "type": "U8"},
+  {"label": "active", "type": "Bool"},
+  {"label": "interlock", "type": "Cluster", "fields": [
+    {"label": "ok", "type": "Bool"}, {"label": "a_ok", "type": "Bool"}, {"label": "tripped", "type": "Bool"}]},
+  {"label": "peak", "type": "DBL"}]}

@@ -5,3 +5,5 @@ build/
 pylabview.egg-info/
 test_out/
 examples/lv-std-libs-v1/
+# ctlgen assets are derived from the LabVIEW-saved controls they were built from; keep them out of git
+pylabview/ctlgen/assets/

@@ -1,0 +1,6 @@
+{"label": "Arrays",
+ "fields": [
+  {"label": "samples", "type": "Array", "element": {"type": "DBL"}},
+  {"label": "names", "type": "Array", "element": {"type": "String", "label": "name"}},
+  {"label": "flags", "type": "Array", "element": {"type": "Bool"}},
+  {"label": "modes", "type": "Array", "element": {"type": "Enum", "values": ["A", "B"]}}]}

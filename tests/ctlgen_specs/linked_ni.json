@@ -1,0 +1,5 @@
+{"label": "Linked",
+ "fields": [
+  {"label": "count", "type": "I32"},
+  {"label": "item", "type": "TypeDef",
+   "path": "C:/Program Files/National Instruments/LabVIEW 2025/resource/Framework/Providers/API/ItemRef.ctl"}]}
